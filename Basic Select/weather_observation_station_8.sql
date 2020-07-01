@@ -5,4 +5,4 @@ Query the list of CITY names from STATION which have vowels (i.e., a, e, i, o, a
 
 Solution:
 
-SELECT DISTINCT CITY FROM STATION WHERE CITY LIKE '[a,e,i,o,u]%[a,e,i,o,u]';
+SELECT DISTINCT CITY FROM STATION WHERE CITY LIKE '[a,e,i,o,u]%[a,e,i,o,u]'; 
